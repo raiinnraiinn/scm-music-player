@@ -1,0 +1,30 @@
+#player,#player a{ color:#474747; font-family:cedarville_pnkfun_1_cursive; font-size: 12px;  }
+#player{ background:url(); background-position:bottom; background-color: #fff;}
+#player .mainImage{ background:url(http://static.tumblr.com/sbxkdxg/veOmpl71w/playercoff.png); }
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url(); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  font-size: 9px; }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px;  }
+#player #list{ right:0px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border:1px dashed #bebebe;  }
+#player #seekerBuffered{ background-color:#fff; }
+#player #seekerSliderBase{ background-color:#bebebe; }
+
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:3px; background:url(http://static.tumblr.com/sbxkdxg/QNimpl72g/slidebranco1.png); }
+
+@font-face {font-family: 'cedarville_pnkfun_1_cursive'; src: url('http://static.tumblr.com/sbxkdxg/bvzmjark3/cedarville_pnkfun_1_cursive.ttf')}
+
+
+<!-------------- Por bau-de-incertezas don't copy please---------------->
+
+/** PONTILHADO POR SKINS-4YOU ! ! ! **/
